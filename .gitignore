@@ -1,0 +1,50 @@
+# Unity generated data
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/TestResults/
+/.utmp/
+*_BurstDebugInformation_DoNotShip/
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+
+# IDE caches and generated solutions
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.opendb
+*.VC.db
+*.pdb
+*.mdb
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Unity crash reports, exports and generated addressable data
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+/Assets/AddressableAssetsData/*/*.bin*
+/Assets/StreamingAssets/aa.meta
+/Assets/StreamingAssets/aa/
+/Assets/Plugins/Editor/JetBrains*
+
+# OS clutter
+.DS_Store
+Thumbs.db
+Desktop.ini
